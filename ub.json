@@ -1,0 +1,15 @@
+{
+"coord":{"lon":106.8832,"lat":47.9077},
+"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],
+"base":"stations",
+"main":{"temp":275.22,"feels_like":271.41,"temp_min":275.22,"temp_max":275.22,"pressure":1018,"humidity":69,"sea_level":1018,"grnd_level":872},
+"visibility":10000,
+"wind":{"speed":4,"deg":190},
+"clouds":{"all":40},
+"dt":1730178664,
+"sys":{"type":1,"id":9644,"country":"MN","sunrise":1730158346,"sunset":1730194784},
+"timezone":28800,
+"id":2028462
+,"name":"Ulaanbaatar",
+"cod":200
+}
